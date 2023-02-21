@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @marienams
 - 👀 I’m interested in ... games
-- 🌱 I’m currently learning ...devOps, game development, AR Dev and simulators
-- 💞️ I’m looking to collaborate on ...games
+- 🌱 I’m currently learning ...game development, AR Dev and simulators
+- 💞️ I’m looking to collaborate on ...any one of the above
 - 📫 How to reach me ...
 
 <!---
