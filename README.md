@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @marienams
 - 👀 I’m interested in ... games
-- 🌱 I’m currently learning ...game development, AR Dev and simulators
+- 🌱 I’m currently learning ...game development, AR Dev, C# dev
 - 💞️ I’m looking to collaborate on ...any one of the above
 - 📫 How to reach me ...
 
