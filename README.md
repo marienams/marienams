@@ -1,10 +1,7 @@
 - 👋 Hi, I’m @marienams
 - 👀 I’m interested in ... games, software dev, and many more
-- 🌱 I’m currently learning ...full stack dev and launch
+- 🌱 I’m currently learning ...fusion 2.0 and leetcoding
 - 💞️ I’m looking to collaborate on ...any one of the above
-- 📫 How to reach me ...
+- 📫 How to reach me ...email mahima.ms0007@gmail.com
+- 💻 check out my website https://mahimams0007.wixsite.com/mahima
 
-<!---
-marienams/marienams is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
